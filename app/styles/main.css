@@ -1,0 +1,7 @@
+*:hover{
+  -webkit-transform:rotate(720deg);
+}
+
+*{
+  transition: all 2s;
+}
